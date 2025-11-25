@@ -8,8 +8,8 @@ management:
 
 spinnaker:
   redis:
-    enabled: false
-    host: localhost
+    enabled: true
+    host: 10.1.108.140
     port: 6379
 
 swagger:
